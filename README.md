@@ -1,97 +1,140 @@
+<!-- ═══════════════ HEADER ═══════════════ -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+Ahmed+Nasser;Data+Analytics+%26+Software+Engineering+Learner;I+love+clean+code+%26+insightful+data+visuals" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0d1117,50:1f6feb,100:8957e5&text=Ahmed%20Nasser&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Data%20Analytics%20%E2%80%A2%20Software%20Engineering&descAlignY=58&descSize=20&animation=fadeIn" width="100%" alt="header" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=45&lines=Turning+raw+data+into+clear+insights+%F0%9F%93%8A;Writing+clean%2C+maintainable+code+%F0%9F%92%BB;Learning+something+new+every+day+%F0%9F%9A%80" alt="typing" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=ahmednasser-io&label=Profile+views&color=0e75b6&style=flat-square" alt="Profile views" />
+<a href="https://github.com/ahmednasser-io"><img src="https://img.shields.io/badge/GitHub-ahmednasser--io-181717?style=for-the-badge&logo=github" /></a>
+<img src="https://komarev.com/ghpvc/?username=ahmednasser-io&label=PROFILE+VIEWS&color=1f6feb&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Status-Learning_%26_Building-2ea043?style=for-the-badge" />
 
 </div>
 
----
+<br/>
 
-## 👨‍💻 About Me
+<!-- ═══════════════ ABOUT ═══════════════ -->
+## 👋 Hello, World!
 
-I'm a passionate learner building a strong foundation in **Data Analytics** and **Software Engineering**. I enjoy turning raw data into clear insights and writing clean, maintainable code.
+```python
+class AhmedNasser:
+    def __init__(self):
+        self.role      = "Data Analytics & Software Engineering Learner"
+        self.focus     = ["Data Analysis", "Data Visualization", "Clean Code"]
+        self.learning  = ["Advanced Design Patterns", "Deep Learning"]
+        self.seeking   = ["Open-Source collaboration", "System Architecture help", "Machine Learning help"]
+        self.fun_fact  = "I love clean code as much as insightful dashboards!"
 
-- 🔭 Currently working on **Data Analytics** and **Software Engineering** projects
-- 🌱 Currently learning **Advanced Software Design Patterns** and **Deep Learning**
-- 👯 Looking to collaborate on **Open-Source Software**, **Web Development**, and **Data Science** tools
-- 🤝 Looking for help with **Advanced System Architecture** and **Machine Learning**
-- 💬 Ask me about **HTML, CSS, JavaScript, Python, C, SQL, OOP, SOLID Principles, Data Analysis (Pandas, NumPy, Seaborn)** and **Data Visualization (Tableau, Power BI)**
-- ⚡ Fun fact: I love clean code as much as insightful data visualizations!
+    def say_hi(self):
+        print("Thanks for stopping by! Let's build something great together. 🤝")
+```
 
----
+<br/>
 
-## 🛠️ Tech Stack
-
-### 💻 Programming & Web
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 📊 Data Analysis & Visualization
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-### 🗄️ Databases
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 🧠 Concepts & Principles
-![OOP](https://img.shields.io/badge/OOP-Object_Oriented_Programming-0A66C2?style=for-the-badge)
-![SOLID](https://img.shields.io/badge/SOLID-Principles-8A2BE2?style=for-the-badge)
-![Design Patterns](https://img.shields.io/badge/Design-Patterns-E34F26?style=for-the-badge)
-
-### 🔧 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 📈 GitHub Stats
+<!-- ═══════════════ SKILLS ═══════════════ -->
+## ⚡ Tech Arsenal
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ahmednasser-io&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmednasser-io&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+**💻 Languages & Web**
 
-<img src="https://streak-stats.demolab.com?user=ahmednasser-io&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://skillicons.dev/icons?i=py,c,js,html,css&perline=5" />
+
+**📊 Data Analysis & Visualization**
+
+<img src="https://skillicons.dev/icons?i=pandas,numpy&perline=5" />
+<br/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+**🧠 Engineering Concepts**
+
+<img src="https://img.shields.io/badge/OOP-0A66C2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SOLID_Principles-8957e5?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Design_Patterns-E34F26?style=for-the-badge" />
+
+**🔧 Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github&perline=5" />
 
 </div>
 
----
+<br/>
 
+<!-- ═══════════════ WHAT I DO ═══════════════ -->
+## 🎯 What I Do
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 📊 Data Analysis
+Cleaning, exploring and analyzing data with **Pandas** & **NumPy**, and querying it with **SQL**.
+
+</td>
+<td width="33%" valign="top">
+
+### 🎨 Data Visualization
+Telling stories with data using **Seaborn**, **Tableau** and **Power BI**.
+
+</td>
+<td width="33%" valign="top">
+
+### 🏗️ Clean Software
+Writing readable code with **OOP**, **SOLID** and **Design Patterns** in Python & C.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════ STATS ═══════════════ -->
+## 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ahmednasser-io&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmednasser-io&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
+
+<img src="https://streak-stats.demolab.com?user=ahmednasser-io&theme=tokyonight&hide_border=true&border_radius=12" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=ahmednasser-io&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
+
+</div>
+
+<br/>
+
+<!-- ═══════════════ PROJECTS ═══════════════ -->
 ## 🚀 Featured Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🗃️ **Project name** | One line about what it does | `Python` `SQL` |
-| 📊 **Project name** | One line about what it does | `Pandas` `Seaborn` |
-| 🌐 **Project name** | One line about what it does | `HTML` `CSS` `JavaScript` |
+| | Project | What it does | Stack |
+|:-:|---------|--------------|-------|
+| 🗃️ | **[Project name](https://github.com/ahmednasser-io)** | One line about the project | `Python` `SQL` |
+| 📊 | **[Project name](https://github.com/ahmednasser-io)** | One line about the project | `Pandas` `Seaborn` |
+| 🌐 | **[Project name](https://github.com/ahmednasser-io)** | One line about the project | `HTML` `CSS` `JavaScript` |
 
-> 💡 Replace the rows above with your real projects and add links to each repo.
+> 💡 Replace these rows with your real projects and link each one to its repo.
 
----
+<br/>
 
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/YOUR_USERNAME)
-
-</div>
-
----
+<!-- ═══════════════ CONNECT ═══════════════ -->
+## 🤝 Let's Connect
 
 <div align="center">
 
-⭐ *"First, solve the problem. Then, write the code."*
+<a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/YOUR_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://facebook.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=4000&pause=1500&color=8B949E&center=true&vCenter=true&width=600&lines=%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:8957e5,50:1f6feb,100:0d1117&section=footer" width="100%" alt="footer" />
 
 </div>
