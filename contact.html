@@ -1,0 +1,261 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Contact — Ahmed Nasser</title>
+<meta name="description" content="Get in touch with Ahmed Nasser: Data Analytics and Software Engineering.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500&family=Manrope:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#0d1117; --panel:rgba(22,27,34,.72); --line:rgba(240,246,252,.12);
+    --text:#e6edf3; --muted:#8b949e; --field:rgba(255,255,255,.04);
+    --blue:#1f6feb; --violet:#8957e5; --ok:#3fb950; --err:#f85149;
+    --glow:.32; color-scheme:dark light;
+  }
+  @media (prefers-color-scheme:light){
+    :root{--bg:#f6f8fa; --panel:rgba(255,255,255,.82); --line:rgba(31,35,40,.14);
+      --text:#1f2328; --muted:#59636e; --field:rgba(31,35,40,.04);
+      --ok:#1a7f37; --err:#cf222e; --glow:.16}
+  }
+  *{box-sizing:border-box}
+  html{scroll-behavior:smooth}
+  body{
+    margin:0; min-height:100vh; background:var(--bg); color:var(--text);
+    font:16px/1.6 "Manrope",system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
+    -webkit-font-smoothing:antialiased; overflow-x:hidden;
+  }
+  /* atmosphere: two soft glows + a faint dot grid */
+  body::before{
+    content:""; position:fixed; inset:0; z-index:-2; pointer-events:none;
+    background:
+      radial-gradient(48rem 32rem at 8% -8%, rgba(31,111,235,var(--glow)), transparent 60%),
+      radial-gradient(44rem 30rem at 100% 105%, rgba(137,87,229,var(--glow)), transparent 60%);
+  }
+  body::after{
+    content:""; position:fixed; inset:0; z-index:-1; pointer-events:none; opacity:.5;
+    background-image:radial-gradient(var(--line) 1px, transparent 1px);
+    background-size:28px 28px;
+    -webkit-mask-image:radial-gradient(ellipse at 30% 20%, #000 10%, transparent 70%);
+            mask-image:radial-gradient(ellipse at 30% 20%, #000 10%, transparent 70%);
+  }
+
+  .shell{
+    max-width:1120px; margin:0 auto; padding:clamp(28px,6vw,80px) 24px;
+    display:grid; grid-template-columns:minmax(0,5fr) minmax(0,6fr); gap:clamp(32px,6vw,88px);
+    animation:rise .9s cubic-bezier(.2,.7,.2,1) both;
+  }
+  @media (max-width:900px){.shell{grid-template-columns:1fr}}
+  @keyframes rise{from{opacity:0; transform:translateY(14px)} to{opacity:1; transform:none}}
+
+  /* left: intro */
+  .intro{align-self:start; position:sticky; top:64px}
+  @media (max-width:900px){.intro{position:static}}
+  .status{
+    display:inline-flex; align-items:center; gap:10px; padding:7px 14px 7px 12px;
+    border:1px solid var(--line); border-radius:999px; background:var(--field);
+    font-size:.85rem; color:var(--muted);
+  }
+  .dot{width:8px; height:8px; border-radius:50%; background:var(--ok); box-shadow:0 0 0 0 var(--ok); animation:pulse 2.4s infinite}
+  @keyframes pulse{0%{box-shadow:0 0 0 0 rgba(63,185,80,.55)} 70%,100%{box-shadow:0 0 0 9px rgba(63,185,80,0)}}
+  h1{
+    margin:28px 0 20px; font:400 clamp(2.6rem,6vw,4.5rem)/1.02 "Fraunces",Georgia,"Times New Roman",serif;
+    letter-spacing:-.025em;
+  }
+  .lead{margin:0; max-width:40ch; color:var(--muted); font-size:1.05rem}
+
+  /* right: form panel */
+  .panel{
+    position:relative; padding:clamp(24px,4vw,44px); border:1px solid var(--line); border-radius:20px;
+    background:var(--panel); -webkit-backdrop-filter:blur(16px); backdrop-filter:blur(16px);
+    box-shadow:0 30px 80px -30px rgba(0,0,0,.55);
+  }
+  .panel::before{
+    content:""; position:absolute; left:8%; right:8%; top:-1px; height:1px;
+    background:linear-gradient(90deg,transparent,var(--blue),var(--violet),transparent);
+  }
+  .grid2{display:grid; grid-template-columns:1fr 1fr; gap:16px}
+  @media (max-width:560px){.grid2{grid-template-columns:1fr}}
+
+  .field{position:relative; margin-bottom:16px}
+  .field input,.field textarea{
+    width:100%; padding:25px 16px 9px; border:1px solid var(--line); border-radius:12px;
+    background:var(--field); color:var(--text); font:inherit; transition:border-color .2s, box-shadow .2s, background .2s;
+  }
+  .field textarea{min-height:150px; resize:vertical}
+  .field label{
+    position:absolute; left:16px; top:16px; color:var(--muted); font-size:1rem; pointer-events:none;
+    transform-origin:left top; transition:transform .2s, color .2s;
+  }
+  .field input:focus + label,.field input:not(:placeholder-shown) + label,
+  .field textarea:focus + label,.field textarea:not(:placeholder-shown) + label{
+    transform:translateY(-9px) scale(.76);
+  }
+  .field input:focus,.field textarea:focus{
+    outline:0; border-color:var(--blue); background:transparent;
+    box-shadow:0 0 0 4px rgba(31,111,235,.2);
+  }
+  .field input:focus + label,.field textarea:focus + label{color:var(--blue)}
+  .count{position:absolute; right:14px; bottom:10px; font-size:.75rem; color:var(--muted)}
+
+  fieldset{margin:8px 0 22px; padding:0; border:0}
+  legend{padding:0; margin-bottom:12px; font-size:.9rem; color:var(--muted)}
+  .chips{display:flex; flex-wrap:wrap; gap:10px}
+  .chip{position:relative}
+  .chip input{position:absolute; opacity:0; inset:0; margin:0; cursor:pointer}
+  .chip span{
+    display:block; padding:9px 18px; border:1px solid var(--line); border-radius:999px;
+    background:var(--field); font-size:.92rem; font-weight:500; transition:all .2s;
+  }
+  .chip:hover span{border-color:var(--violet)}
+  .chip input:checked + span{
+    color:#fff; border-color:transparent; background:linear-gradient(110deg,var(--blue),var(--violet));
+  }
+  .chip input:focus-visible + span{outline:2px solid var(--blue); outline-offset:3px}
+
+  .hp{position:absolute; left:-9999px}
+  .send{
+    display:inline-flex; align-items:center; justify-content:center; gap:10px; width:100%;
+    padding:16px 28px; border:0; border-radius:12px; cursor:pointer; color:#fff;
+    font:700 1rem "Manrope",system-ui,sans-serif;
+    background:linear-gradient(110deg,var(--blue),var(--violet));
+    box-shadow:0 14px 34px -14px rgba(137,87,229,.85);
+    transition:transform .2s, box-shadow .2s, filter .2s;
+  }
+  .send:hover{transform:translateY(-2px); filter:brightness(1.08)}
+  .send:focus-visible{outline:2px solid var(--blue); outline-offset:3px}
+  .send svg{transition:transform .2s}
+  .send:hover svg{transform:translateX(4px)}
+  .spin{display:none; width:18px; height:18px; border:2px solid rgba(255,255,255,.4); border-top-color:#fff; border-radius:50%; animation:spin .7s linear infinite}
+  @keyframes spin{to{transform:rotate(360deg)}}
+  .send.loading{pointer-events:none; opacity:.85}
+  .send.loading .arrow{display:none}
+  .send.loading .spin{display:block}
+  #status{min-height:1.6em; margin:16px 0 0; font-size:.92rem; text-align:center}
+  #status.err{color:var(--err)}
+  .note{margin:18px 0 0; text-align:center; font-size:.8rem; color:var(--muted)}
+
+  /* success state */
+  .done{display:none; text-align:center; padding:clamp(16px,6vw,56px) 0}
+  .panel.sent form{display:none}
+  .panel.sent .done{display:block; animation:rise .6s both}
+  .done svg{width:76px; height:76px; margin-bottom:18px}
+  .done circle{fill:none; stroke:var(--ok); stroke-width:3; stroke-dasharray:176; stroke-dashoffset:176; animation:draw .7s .1s forwards}
+  .done path{fill:none; stroke:var(--ok); stroke-width:3.5; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:40; stroke-dashoffset:40; animation:draw .45s .7s forwards}
+  @keyframes draw{to{stroke-dashoffset:0}}
+  .done h2{margin:0 0 8px; font:400 2rem/1.15 "Fraunces",Georgia,serif}
+  .done p{margin:0 0 26px; color:var(--muted)}
+  .again{padding:11px 22px; border:1px solid var(--line); border-radius:999px; background:var(--field); color:var(--text); font:600 .92rem "Manrope",system-ui,sans-serif; cursor:pointer; transition:border-color .2s}
+  .again:hover{border-color:var(--violet)}
+
+  @media (prefers-reduced-motion:reduce){
+    *,*::before,*::after{animation-duration:.01ms !important; animation-iteration-count:1 !important; transition-duration:.01ms !important}
+  }
+</style>
+</head>
+<body>
+<div class="shell">
+
+  <section class="intro">
+    <span class="status"><i class="dot"></i>Open to collaboration</span>
+    <h1>Got an idea? Let's make it real.</h1>
+    <p class="lead">Tell me what you're building, what's stuck, or what you wish existed. I read every message myself and reply by email.</p>
+  </section>
+
+  <section class="panel" id="panel">
+    <form id="contact" action="https://formspree.io/f/xaenrngk" method="POST">
+      <div class="grid2">
+        <div class="field">
+          <input id="name" name="name" type="text" placeholder=" " autocomplete="name" required>
+          <label for="name">Your name</label>
+        </div>
+        <div class="field">
+          <input id="email" name="email" type="email" placeholder=" " autocomplete="email" required>
+          <label for="email">Your email</label>
+        </div>
+      </div>
+
+      <fieldset>
+        <legend>What brings you here?</legend>
+        <div class="chips">
+          <label class="chip"><input type="radio" name="topic" value="Collaboration" checked><span>🤝 Collaboration</span></label>
+          <label class="chip"><input type="radio" name="topic" value="Project"><span>🚀 Project</span></label>
+          <label class="chip"><input type="radio" name="topic" value="Opportunity"><span>💼 Opportunity</span></label>
+          <label class="chip"><input type="radio" name="topic" value="Question"><span>💬 Question</span></label>
+        </div>
+      </fieldset>
+
+      <div class="field">
+        <textarea id="message" name="message" placeholder=" " maxlength="1500" required></textarea>
+        <label for="message">What's on your mind?</label>
+        <span class="count" id="count">0 / 1500</span>
+      </div>
+
+      <input type="hidden" name="_subject" value="New message from my GitHub profile">
+      <input type="text" name="_gotcha" class="hp" tabindex="-1" autocomplete="off" aria-hidden="true">
+
+      <button class="send" type="submit">
+        <span class="label">Start the conversation</span>
+        <svg class="arrow" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg>
+        <i class="spin" aria-hidden="true"></i>
+      </button>
+      <p id="status" role="status" aria-live="polite"></p>
+      <p class="note">No sign-up, no spam. Your details are used only to reply to you.</p>
+    </form>
+
+    <div class="done" role="status">
+      <svg viewBox="0 0 76 76" aria-hidden="true"><circle cx="38" cy="38" r="28"/><path d="M26 39l9 9 16-18"/></svg>
+      <h2>You're all set!</h2>
+      <p>Your message is on its way to my inbox. I'll get back to you by email soon.</p>
+      <button class="again" type="button" id="again">Send another message</button>
+    </div>
+  </section>
+
+</div>
+
+<script>
+  const panel = document.getElementById('panel');
+  const form = document.getElementById('contact');
+  const status = document.getElementById('status');
+  const button = form.querySelector('.send');
+  const label = button.querySelector('.label');
+  const message = document.getElementById('message');
+  const count = document.getElementById('count');
+
+  message.addEventListener('input', () => {
+    count.textContent = message.value.length + ' / 1500';
+  });
+
+  form.addEventListener('submit', async (e) => {
+    e.preventDefault();
+    button.classList.add('loading');
+    label.textContent = 'Sending...';
+    status.className = '';
+    status.textContent = '';
+    try {
+      const res = await fetch(form.action, {
+        method: 'POST',
+        body: new FormData(form),
+        headers: { Accept: 'application/json' }
+      });
+      if (!res.ok) throw new Error('Request failed');
+      form.reset();
+      count.textContent = '0 / 1500';
+      panel.classList.add('sent');
+    } catch (err) {
+      status.className = 'err';
+      status.textContent = 'Your message did not go through. Check your connection and try again.';
+    }
+    button.classList.remove('loading');
+    label.textContent = 'Start the conversation';
+  });
+
+  document.getElementById('again').addEventListener('click', () => {
+    panel.classList.remove('sent');
+    document.getElementById('name').focus();
+  });
+</script>
+</body>
+</html>

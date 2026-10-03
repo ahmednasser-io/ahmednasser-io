@@ -168,9 +168,10 @@ My inbox is always open.
 
 <div align="center">
 
-<a href="mailto:arzottkx@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://linkedin.com/in/ahmed-nasser-99a52b377"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://facebook.com/profile.php?id=100084691406061"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+<!-- TODO: replace YOUR_EMAIL and YOUR_USERNAME with your real details -->
+<a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://linkedin.com/in/YOUR_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://facebook.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
 
 <br/><br/>
 
@@ -183,7 +184,7 @@ My inbox is always open.
       Fill in a short form and it lands straight in my inbox.
       <br/><br/>
       <a href="https://ahmednasser-io.github.io/ahmednasser-io/contact.html"><img src="https://img.shields.io/badge/Open_Contact_Form-Send_a_Message-1f6feb?style=for-the-badge&labelColor=0d1117" alt="Open contact form" /></a>
-      <a href="mailto:arzottkx@gmail.com?subject=Hello%20Ahmed&body=Hi%20Ahmed%2C%0A%0A"><img src="https://img.shields.io/badge/Quick_Email-Write_Directly-8957e5?style=for-the-badge&labelColor=0d1117" alt="Quick email" /></a>
+      <a href="mailto:YOUR_EMAIL@gmail.com?subject=Hello%20Ahmed&body=Hi%20Ahmed%2C%0A%0A"><img src="https://img.shields.io/badge/Quick_Email-Write_Directly-8957e5?style=for-the-badge&labelColor=0d1117" alt="Quick email" /></a>
       <br/><br/>
       <sub>💼 Collaboration &nbsp;·&nbsp; 🚀 Projects &nbsp;·&nbsp; 🎯 Opportunities &nbsp;·&nbsp; 💬 Questions</sub>
     </td>
