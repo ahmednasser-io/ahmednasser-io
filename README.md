@@ -153,36 +153,50 @@ and builds software that is clean, readable and easy to maintain.
 <!-- ═════════════════════════ CONTACT ═════════════════════════ -->
 <h2 align="center">🤝 Let's Connect</h2>
 
-<p align="center">
-Have an idea, a project, or just want to talk code and data?<br/>
-My inbox is always open.
-</p>
-
 <div align="center">
 
-<a href="mailto:arzottkx@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://linkedin.com/in/ahmed-nasser-99a52b377"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://facebook.com/profile.php?id=100084691406061"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-
-<br/><br/>
-
-<!-- ═════════════════════════ CONTACT FORM ═════════════════════════ -->
 <table align="center">
   <tr>
-    <td align="center" width="620">
-      <h3>📬 Send Me a Message</h3>
-      Have a project, an opportunity or a question?<br/>
-      Click the button below, fill in a short form, and it lands straight in my inbox.
+    <td align="center" width="700">
+      <br/>
+      <b>Have an idea, a project, or just want to talk code and data?</b><br/>
+      My inbox is always open. Pick whatever way suits you best.
       <br/><br/>
-      <a href="https://ahmednasser-io.github.io/ahmednasser-io/contact.html"><img src="https://img.shields.io/badge/Open_the_Contact_Form-1f6feb?style=for-the-badge&labelColor=0d1117" alt="Open contact form" /></a>
-      <a href="mailto:arzottkx@gmail.com?subject=Hello%20Ahmed&body=Hi%20Ahmed%2C%0A%0A"><img src="https://img.shields.io/badge/Or_Write_Directly-8957e5?style=for-the-badge&labelColor=0d1117" alt="Quick email" /></a>
+
+      <!-- Social links -->
+      <a href="mailto:arzottkx@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+      <a href="https://linkedin.com/in/ahmed-nasser-99a52b377"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+      <a href="https://facebook.com/profile.php?id=100084691406061"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+
+      <br/><br/>
+
+      <!-- Divider -->
+      <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=30363d" width="80%" alt="" />
+
+      <br/>
+
+      <!-- Contact form -->
+      <b>📬 Prefer a quick message?</b><br/>
+      <sub>Fill in a short form and it lands straight in my inbox.</sub>
+      <br/><br/>
+
+      <a href="https://ahmednasser-io.github.io/ahmednasser-io/contact.html"><img src="https://img.shields.io/badge/Open_the_Contact_Form-1f6feb?style=for-the-badge&logo=googleforms&logoColor=white" alt="Open contact form" /></a>
+      <a href="mailto:arzottkx@gmail.com?subject=Hello%20Ahmed&body=Hi%20Ahmed%2C%0A%0A"><img src="https://img.shields.io/badge/Or_Write_Directly-8957e5?style=for-the-badge&logo=maildotru&logoColor=white" alt="Quick email" /></a>
+
       <br/><br/>
       <sub>💼 Collaboration &nbsp;·&nbsp; 🚀 Projects &nbsp;·&nbsp; 🎯 Opportunities &nbsp;·&nbsp; 💬 Questions</sub>
+      <br/><br/>
     </td>
   </tr>
 </table>
 
 <br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=4000&pause=1500&color=8B949E&center=true&vCenter=true&width=620&lines=%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22" alt="Quote" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=130&color=0:8957e5,50:1f6feb,100:0d1117" width="100%" alt="Footer" />
+
+</div>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=4000&pause=1500&color=8B949E&center=true&vCenter=true&width=620&lines=%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22" alt="Quote" />
 
