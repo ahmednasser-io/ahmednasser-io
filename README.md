@@ -162,29 +162,28 @@ and builds software that is clean, readable and easy to maintain.
       <b>Have an idea, a project, or just want to talk code and data?</b><br/>
       My inbox is always open. Pick whatever way suits you best.
       <br/><br/>
-
-      <!-- Social links -->
+<!-- Social links -->
       <a href="mailto:arzottkx@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
       <a href="https://linkedin.com/in/ahmed-nasser-99a52b377"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
       <a href="https://facebook.com/profile.php?id=100084691406061"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
 
-      <br/><br/>
+<br/><br/>
 
-      <!-- Divider -->
-      <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=30363d" width="80%" alt="" />
+    <!-- Divider -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=30363d" width="80%" alt="" />
 
-      <br/>
+<br/>
 
       <!-- Contact form -->
-      <b>📬 Prefer a quick message?</b><br/>
+<b>📬 Prefer a quick message?</b><br/>
       <sub>Fill in a short form and it lands straight in my inbox.</sub>
       <br/><br/>
 
-      <a href="https://ahmednasser-io.github.io/ahmednasser-io/contact.html"><img src="https://img.shields.io/badge/Open_the_Contact_Form-1f6feb?style=for-the-badge&logo=googleforms&logoColor=white" alt="Open contact form" /></a>
+  <a href="https://ahmednasser-io.github.io/ahmednasser-io/contact.html"><img src="https://img.shields.io/badge/Open_the_Contact_Form-1f6feb?style=for-the-badge&logo=googleforms&logoColor=white" alt="Open contact form" /></a>
       <a href="mailto:arzottkx@gmail.com?subject=Hello%20Ahmed&body=Hi%20Ahmed%2C%0A%0A"><img src="https://img.shields.io/badge/Or_Write_Directly-8957e5?style=for-the-badge&logo=maildotru&logoColor=white" alt="Quick email" /></a>
 
       <br/><br/>
-      <sub>💼 Collaboration &nbsp;·&nbsp; 🚀 Projects &nbsp;·&nbsp; 🎯 Opportunities &nbsp;·&nbsp; 💬 Questions</sub>
+  <sub>💼 Collaboration &nbsp;·&nbsp; 🚀 Projects &nbsp;·&nbsp; 🎯 Opportunities &nbsp;·&nbsp; 💬 Questions</sub>
       <br/><br/>
     </td>
   </tr>
