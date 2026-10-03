@@ -175,6 +175,24 @@ My inbox is always open.
 
 <br/><br/>
 
+<!-- ═════════════════════════ CONTACT FORM ═════════════════════════ -->
+<table align="center">
+  <tr>
+    <td align="center" width="620">
+      <h3>📬 Send Me a Message</h3>
+      Have a project, an opportunity or a question?<br/>
+      Fill in a short form and it lands straight in my inbox.
+      <br/><br/>
+      <a href="https://ahmednasser-io.github.io/ahmednasser-io/contact.html"><img src="https://img.shields.io/badge/Open_Contact_Form-Send_a_Message-1f6feb?style=for-the-badge&labelColor=0d1117" alt="Open contact form" /></a>
+      <a href="mailto:YOUR_EMAIL@gmail.com?subject=Hello%20Ahmed&body=Hi%20Ahmed%2C%0A%0A"><img src="https://img.shields.io/badge/Quick_Email-Write_Directly-8957e5?style=for-the-badge&labelColor=0d1117" alt="Quick email" /></a>
+      <br/><br/>
+      <sub>💼 Collaboration &nbsp;·&nbsp; 🚀 Projects &nbsp;·&nbsp; 🎯 Opportunities &nbsp;·&nbsp; 💬 Questions</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=4000&pause=1500&color=8B949E&center=true&vCenter=true&width=620&lines=%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22" alt="Quote" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=130&color=0:8957e5,50:1f6feb,100:0d1117" width="100%" alt="Footer" />
