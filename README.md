@@ -5,12 +5,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=720&height=45&lines=Turning+raw+data+into+clear+insights+%F0%9F%93%8A;Writing+clean%2C+maintainable+code+%F0%9F%92%BB;Learning+something+new+every+single+day+%F0%9F%9A%80;Let's+build+something+great+together+%E2%9C%A8" alt="Typing animation" />
 
-<br/><br/>
-
-<a href="https://github.com/ahmednasser-io?tab=followers"><img src="https://img.shields.io/github/followers/ahmednasser-io?label=Followers&style=for-the-badge&logo=github&color=1f6feb&labelColor=0d1117" alt="Followers" /></a>
-<img src="https://komarev.com/ghpvc/?username=ahmednasser-io&label=Profile+Views&color=8957e5&style=for-the-badge&labelColor=0d1117" alt="Profile views" />
-<img src="https://img.shields.io/badge/Open_to-Collaboration-2ea043?style=for-the-badge&labelColor=0d1117" alt="Open to collaboration" />
-
 </div>
 
 <br/>
@@ -62,23 +56,25 @@ and builds software that is clean, readable and easy to maintain.
   <tr>
     <td align="center" valign="top" width="50%">
       <b>💻 Programming &amp; Web</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=py,c,js,html,css&theme=dark&perline=5" alt="Python, C, JavaScript, HTML, CSS" />
+      <img src="https://skillicons.dev/icons?i=py,cpp,js,html,css&theme=dark&perline=5" alt="Python, C++, JavaScript, HTML, CSS" />
     </td>
     <td align="center" valign="top" width="50%">
       <b>📊 Data Analysis &amp; Visualization</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=pandas,numpy&theme=dark&perline=5" alt="Pandas, NumPy" /><br/><br/>
-      <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&labelColor=0d1117" alt="Seaborn" />
-      <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white&labelColor=0d1117" alt="Tableau" />
-      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=F2C811&labelColor=0d1117" alt="Power BI" />
-      <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white&labelColor=0d1117" alt="SQL" />
+      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=150458" alt="Pandas" />
+      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=013243" alt="NumPy" />
+      <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=336791" alt="SQL" />
+      <br/>
+      <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" alt="Seaborn" />
+      <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge" alt="Tableau" />
+      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge" alt="Power BI" />
     </td>
   </tr>
   <tr>
     <td align="center" valign="top" width="50%">
       <b>🧠 Engineering Principles</b><br/><br/>
-      <img src="https://img.shields.io/badge/OOP-0A66C2?style=flat-square&labelColor=0d1117" alt="OOP" />
-      <img src="https://img.shields.io/badge/SOLID-8957e5?style=flat-square&labelColor=0d1117" alt="SOLID" />
-      <img src="https://img.shields.io/badge/Design_Patterns-E34F26?style=flat-square&labelColor=0d1117" alt="Design Patterns" />
+      <img src="https://img.shields.io/badge/OOP-0A66C2?style=for-the-badge" alt="OOP" />
+      <img src="https://img.shields.io/badge/SOLID-8957e5?style=for-the-badge" alt="SOLID" />
+      <img src="https://img.shields.io/badge/Design_Patterns-E34F26?style=for-the-badge" alt="Design Patterns" />
     </td>
     <td align="center" valign="top" width="50%">
       <b>🔧 Tools</b><br/><br/>
@@ -96,7 +92,7 @@ and builds software that is clean, readable and easy to maintain.
 
 | Stage | Focus | Status |
 |:--|:--|:-:|
-| 🧱 **Foundations** | Python · C · JavaScript · HTML/CSS · OOP · SOLID · SQL | ![Practicing](https://img.shields.io/badge/Practicing-2ea043?style=flat-square) |
+| 🧱 **Foundations** | Python · C++ · JavaScript · HTML/CSS · OOP · SOLID · SQL | ![Practicing](https://img.shields.io/badge/Practicing-2ea043?style=flat-square) |
 | 📊 **Data** | Pandas · NumPy · Seaborn · Tableau · Power BI | ![Practicing](https://img.shields.io/badge/Practicing-2ea043?style=flat-square) |
 | 🔄 **Now** | Advanced Design Patterns · Deep Learning | ![In progress](https://img.shields.io/badge/In_progress-d29922?style=flat-square) |
 | 🎯 **Next** | Advanced System Architecture · Machine Learning | ![Up next](https://img.shields.io/badge/Up_next-1f6feb?style=flat-square) |
