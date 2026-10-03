@@ -1,9 +1,9 @@
 <!-- ═════════════════════════ HEADER ═════════════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=header&height=260&color=0:0d1117,45:1f6feb,100:8957e5&text=Ahmed%20Nasser&fontColor=ffffff&fontSize=64&fontAlignY=38&desc=Data%20Analytics%20%C2%B7%20Software%20Engineering&descAlignY=60&descSize=20&animation=fadeIn" width="100%" alt="Ahmed Nasser — Data Analytics and Software Engineering" />
+<img src="https://capsule-render.vercel.app/api?type=waving&section=header&height=260&color=0:0d1117,45:1f6feb,100:8957e5&text=Ahmed%20Nasser&fontColor=ffffff&fontSize=64&fontAlignY=38&desc=Software%20Engineering%20%C2%B7%20Data%20Analytics&descAlignY=60&descSize=20&animation=fadeIn" width="100%" alt="Ahmed Nasser — Software Engineering and Data Analytics" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=720&height=45&lines=Turning+raw+data+into+clear+insights+%F0%9F%93%8A;Writing+clean%2C+maintainable+code+%F0%9F%92%BB;Learning+something+new+every+single+day+%F0%9F%9A%80;Let's+build+something+great+together+%E2%9C%A8" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=720&height=45&lines=Turning+raw+data+into+clear+insights+%F0%9F%93%8A;Building+clean%2C+memory-efficient+code+%F0%9F%92%BB;Faculty+of+Computers+%26+AI%2C+Cairo+University+%F0%9F%8E%93;Let's+build+something+great+together+%E2%9C%A8" alt="Typing animation" />
 
 </div>
 
@@ -13,23 +13,23 @@
 <h2 align="center">👋 About Me</h2>
 
 <p align="center">
-I'm a <b>Data Analytics</b> and <b>Software Engineering</b> enthusiast who turns raw data into clear, actionable insights<br/>
-and builds software that is clean, readable and easy to maintain.
+I'm an undergraduate <b>Software Engineering</b> student at the <b>Faculty of Computers and Artificial Intelligence, Cairo University</b> (Class of 2029).<br/>
+Currently enrolled in the <b>Digital Egypt Pioneers Initiative (DEPI)</b> - Data Analytics Professional track. I am passionate about low-level architecture, memory management, and turning raw data into actionable insights.
 </p>
 
 <table align="center">
 <tr>
 <td align="center" valign="top" width="33%">
-<h3>📊 Insight-driven</h3>
-Data should answer a question. I focus on thoughtful analysis and visuals that communicate clearly.
+<h3>🧱 Architecture & OOP</h3>
+Obsessed with clean code, SOLID principles, and understanding how memory (Stack vs. Heap) truly works under the hood in C++.
 </td>
 <td align="center" valign="top" width="33%">
-<h3>🧱 Clean by design</h3>
-OOP, SOLID and readable code, so every project stays easy to understand and extend.
+<h3>📊 Insight-Driven</h3>
+Combining Python, Pandas, and PostgreSQL to extract, reshape, and visualize data that answers real-world questions.
 </td>
 <td align="center" valign="top" width="33%">
-<h3>🌱 Always learning</h3>
-Currently going deeper into design patterns and deep learning, one project at a time.
+<h3>🎥 Triple A Co-founder</h3>
+Co-founder of the "Triple A" YouTube channel, dedicated to creating high-quality programming and tech tutorials in Arabic.
 </td>
 </tr>
 </table>
@@ -38,65 +38,58 @@ Currently going deeper into design patterns and deep learning, one project at a 
 
 | | |
 |:--|:--|
-| 🔭 **Working on** | Data Analytics & Software Engineering projects |
-| 🌱 **Learning** | Advanced Software Design Patterns & Deep Learning |
-| 👯 **Collaborating on** | Open-source software, web development & data science tools |
-| 🤝 **Looking for help with** | Advanced system architecture & machine learning |
-| 💬 **Ask me about** | Python · SQL · JavaScript · OOP · SOLID · Pandas · NumPy · Tableau · Power BI |
-| ⚡ **Fun fact** | I love clean code as much as insightful data visualizations |
+| 🔭 **Working on** | C++ Image Processing Tools & Cloud-hosted PostgreSQL Databases |
+| 🌱 **Learning** | Advanced Software Design Patterns (Strategy Pattern) & Deep Learning |
+| 👯 **Collaborating on** | "Triple A" Educational YouTube Channel & University Team Projects |
+| 📚 **Currently Reading** | *Designing Data-Intensive Applications* & *Atomic Habits* |
+| 💬 **Ask me about** | C++ STL, OOP, SQL DDL/DML, Pandas, OpenCV, or *Interstellar* |
+| ⚡ **Fun fact** | I previously worked as an online math assistant before diving deep into software engineering! |
 
 </div>
 
 <br/>
 
 <!-- ═════════════════════════ TECH STACK ═════════════════════════ -->
-<h2 align="center">⚡ Tech Stack</h2>
+<h2 align="center">⚡ Tech Stack & Tools</h2>
 
 <table align="center">
 <tr>
 <td align="center" valign="top" width="50%">
-<b>💻 Programming &amp; Web</b><br/><br/>
-<img src="https://skillicons.dev/icons?i=py,cpp,js,html,css&theme=dark&perline=5" alt="Python, C++, JavaScript, HTML, CSS" />
+<b>💻 Programming & Web</b><br/><br/>
+<img src="https://skillicons.dev/icons?i=cpp,py,js,html,css&theme=dark&perline=5" alt="C++, Python, JavaScript, HTML, CSS" />
 </td>
 <td align="center" valign="top" width="50%">
-<b>📊 Data Analysis &amp; Visualization</b><br/><br/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=150458" alt="Pandas" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=013243" alt="NumPy" />
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=336791" alt="SQL" />
-<br/>
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" alt="Seaborn" />
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge" alt="Tableau" />
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge" alt="Power BI" />
+<b>📊 Data Engineering & Analytics</b><br/><br/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
 </td>
 </tr>
 <tr>
 <td align="center" valign="top" width="50%">
-<b>🧠 Engineering Principles</b><br/><br/>
+<b>🧠 Architecture & Design</b><br/><br/>
 <img src="https://img.shields.io/badge/OOP-0A66C2?style=for-the-badge" alt="OOP" />
 <img src="https://img.shields.io/badge/SOLID-8957e5?style=for-the-badge" alt="SOLID" />
 <img src="https://img.shields.io/badge/Design_Patterns-E34F26?style=for-the-badge" alt="Design Patterns" />
 </td>
 <td align="center" valign="top" width="50%">
-<b>🔧 Tools</b><br/><br/>
-<img src="https://skillicons.dev/icons?i=git,github&theme=dark&perline=5" alt="Git and GitHub" />
+<b>🔧 Environments & Tools</b><br/><br/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode&theme=dark&perline=5" alt="Git, GitHub, Docker, Linux, VSCode" />
 </td>
 </tr>
 </table>
 
 <br/>
 
-<!-- ═════════════════════════ ROADMAP ═════════════════════════ -->
-<h2 align="center">🗺️ Learning Journey</h2>
+<!-- ═════════════════════════ GITHUB STATS ═════════════════════════ -->
+<h2 align="center">📈 GitHub Stats</h2>
 
 <div align="center">
-
-| Stage | Focus | Status |
-|:--|:--|:-:|
-| 🧱 **Foundations** | Python · C++ · JavaScript · HTML/CSS · OOP · SOLID · SQL | ![Practicing](https://img.shields.io/badge/Practicing-2ea043?style=flat-square) |
-| 📊 **Data** | Pandas · NumPy · Seaborn · Tableau · Power BI | ![Practicing](https://img.shields.io/badge/Practicing-2ea043?style=flat-square) |
-| 🔄 **Now** | Advanced Design Patterns · Deep Learning | ![In progress](https://img.shields.io/badge/In_progress-d29922?style=flat-square) |
-| 🎯 **Next** | Advanced System Architecture · Machine Learning | ![Up next](https://img.shields.io/badge/Up_next-1f6feb?style=flat-square) |
-
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmednasser-io&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmednasser-io&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak" width="48%" />
 </div>
 
 <br/>
@@ -106,27 +99,16 @@ Currently going deeper into design patterns and deep learning, one project at a 
 
 <div align="center">
 
-| | Project | What it does | Stack |
+| | Project | Description | Tech Stack |
 |:-:|:--|:--|:--|
-| 🗃️ | **[Project name](https://github.com/ahmednasser-io)** | One line about what it does | `Python` `SQL` |
-| 📊 | **[Project name](https://github.com/ahmednasser-io)** | One line about what it does | `Pandas` `Seaborn` |
-| 🌐 | **[Project name](https://github.com/ahmednasser-io)** | One line about what it does | `HTML` `CSS` `JavaScript` |
+| 🖼️ | **Baby Photoshop** | An object-oriented image processing application supporting grayscale, edge detection, and image merging. | `C++` `stb_image` `OOP` |
+| 🗃️ | **Cloud Data Pipeline** | Designed and deployed a cloud-hosted relational database with DDL/DML scripts and Pandas integration. | `PostgreSQL` `Aiven` `Python` |
+| 🌌 | **Interstellar Web App** | A responsive, themed front-end web application deployed and hosted seamlessly via GitHub Pages. | `HTML` `CSS` `JS` |
+| 🤖 | **Face Detection Scripts** | Implemented computer vision scripts for real-time facial detection. | `Python` `OpenCV` |
 
 </div>
-
-<!--
-  OPTIONAL — project cards. Once you have real repos, delete the table above
-  and use this instead (replace REPO_NAME with your repository name):
-
-<div align="center">
-<a href="https://github.com/ahmednasser-io/REPO_NAME"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmednasser-io&repo=REPO_NAME&theme=tokyonight&hide_border=true&border_radius=12" alt="REPO_NAME" /></a>
-<a href="https://github.com/ahmednasser-io/REPO_NAME_2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmednasser-io&repo=REPO_NAME_2&theme=tokyonight&hide_border=true&border_radius=12" alt="REPO_NAME_2" /></a>
-</div>
--->
 
 <br/>
-
-
 
 <!-- ═════════════════════════ CONTACT ═════════════════════════ -->
 <h2 align="center">🤝 Let's Connect</h2>
@@ -137,7 +119,7 @@ Currently going deeper into design patterns and deep learning, one project at a 
 <tr>
 <td align="center" width="700">
 <br/>
-<b>Have an idea, a project, or just want to talk code and data?</b><br/>
+<b>Have an idea, a project, or just want to talk code, data, or space movies?</b><br/>
 My inbox is always open. Pick whatever way suits you best.
 <br/><br/>
 <a href="mailto:arzottkx@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -160,7 +142,7 @@ My inbox is always open. Pick whatever way suits you best.
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=4000&pause=1500&color=8B949E&center=true&vCenter=true&width=620&lines=%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22" alt="Quote" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=4000&pause=1500&color=8B949E&center=true&vCenter=true&width=620&lines=%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22+-+John+Johnson" alt="Quote" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=130&color=0:8957e5,50:1f6feb,100:0d1117" width="100%" alt="Footer" />
 
