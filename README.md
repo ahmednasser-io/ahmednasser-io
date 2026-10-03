@@ -126,29 +126,7 @@ Currently going deeper into design patterns and deep learning, one project at a 
 
 <br/>
 
-<!-- ═════════════════════════ STATS ═════════════════════════ -->
-<h2 align="center">📈 GitHub Analytics</h2>
 
-<div align="center">
-
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=ahmednasser-io&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true" alt="GitHub stats" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmednasser-io&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&border_radius=12" alt="Top languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=ahmednasser-io&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub streak" />
-
-<br/><br/>
-
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmednasser-io/ahmednasser-io/output/github-snake-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmednasser-io/ahmednasser-io/output/github-snake.svg" />
-<img alt="Contribution snake" src="https://raw.githubusercontent.com/ahmednasser-io/ahmednasser-io/output/github-snake-dark.svg" width="95%" />
-</picture>
-
-</div>
-
-<br/>
 
 <!-- ═════════════════════════ CONTACT ═════════════════════════ -->
 <h2 align="center">🤝 Let's Connect</h2>
