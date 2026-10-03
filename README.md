@@ -13,7 +13,7 @@
 <h2 align="center">👋 About Me</h2>
 
 <p align="center">
-I'm an undergraduate <b>Software Engineering</b> student at the <b>Faculty of Computers and Artificial Intelligence, Cairo University</b> (Class of 2029) and enrolled in the <b>DEPI Data Analytics Professional</b> track.<br/>
+I'm an undergraduate <b>Software Engineering</b> student at the <b>Faculty of Computers and Artificial Intelligence, Cairo University</b>.<br/>
 I bridge the gap between strong <b>Software Engineering Fundamentals</b> (Data Structures, OOP, SOLID, Clean Code) and modern <b>Data Architecture</b> (ETL Pipelines, Data Warehousing, Advanced Analytics & ML).
 </p>
 
@@ -133,19 +133,19 @@ Extracting actionable insights using Python (Pandas/NumPy), SQL, and creating in
 <td align="center" width="700">
 <br/>
 <b>Have an idea, a project, or want to talk software engineering, data architecture, or space?</b><br/>
-My inbox is always open. Pick whatever way suits you best.
+Send me an email directly at <a href="mailto:arzottkx@gmail.com"><b>arzottkx@gmail.com</b></a> or reach out through any channel below:
 <br/><br/>
-<a href="mailto:arzottkx@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="mailto:arzottkx@gmail.com"><img src="https://img.shields.io/badge/Email_Me-arzottkx%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://linkedin.com/in/ahmed-nasser-99a52b377"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://facebook.com/profile.php?id=100084691406061"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
 <br/><br/>
 <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=30363d" width="80%" alt="" />
 <br/>
 <b>📬 Prefer a quick message?</b><br/>
-<sub>Fill in a short form and it lands straight in my inbox.</sub>
+<sub>Send an email directly or fill in the contact form.</sub>
 <br/><br/>
-<a href="https://ahmednasser-io.github.io/ahmednasser-io/contact.html"><img src="https://img.shields.io/badge/Open_the_Contact_Form-1f6feb?style=for-the-badge&logo=googleforms&logoColor=white" alt="Open contact form" /></a>
-<a href="mailto:arzottkx@gmail.com?subject=Hello%20Ahmed&body=Hi%20Ahmed%2C%0A%0A"><img src="https://img.shields.io/badge/Or_Write_Directly-8957e5?style=for-the-badge&logo=maildotru&logoColor=white" alt="Quick email" /></a>
+<a href="mailto:arzottkx@gmail.com?subject=Hello%20Ahmed&body=Hi%20Ahmed%2C%0A%0A"><img src="https://img.shields.io/badge/Send_Direct_Email-8957e5?style=for-the-badge&logo=maildotru&logoColor=white" alt="Send direct email" /></a>
+<a href="https://ahmednasser-io.github.io/ahmednasser-io/contact.html"><img src="https://img.shields.io/badge/Open_Contact_Form-1f6feb?style=for-the-badge&logo=googleforms&logoColor=white" alt="Open contact form" /></a>
 <br/><br/>
 <sub>💼 Collaboration &nbsp;·&nbsp; 🚀 Projects &nbsp;·&nbsp; 🎯 Opportunities &nbsp;·&nbsp; 💬 Questions</sub>
 <br/><br/>
