@@ -18,20 +18,20 @@ and builds software that is clean, readable and easy to maintain.
 </p>
 
 <table align="center">
-  <tr>
-    <td align="center" valign="top" width="33%">
-      <h3>📊 Insight-driven</h3>
-      Data should answer a question. I focus on thoughtful analysis and visuals that communicate clearly.
-    </td>
-    <td align="center" valign="top" width="33%">
-      <h3>🧱 Clean by design</h3>
-      OOP, SOLID and readable code, so every project stays easy to understand and extend.
-    </td>
-    <td align="center" valign="top" width="33%">
-      <h3>🌱 Always learning</h3>
-      Currently going deeper into design patterns and deep learning, one project at a time.
-    </td>
-  </tr>
+<tr>
+<td align="center" valign="top" width="33%">
+<h3>📊 Insight-driven</h3>
+Data should answer a question. I focus on thoughtful analysis and visuals that communicate clearly.
+</td>
+<td align="center" valign="top" width="33%">
+<h3>🧱 Clean by design</h3>
+OOP, SOLID and readable code, so every project stays easy to understand and extend.
+</td>
+<td align="center" valign="top" width="33%">
+<h3>🌱 Always learning</h3>
+Currently going deeper into design patterns and deep learning, one project at a time.
+</td>
+</tr>
 </table>
 
 <div align="center">
@@ -53,34 +53,34 @@ and builds software that is clean, readable and easy to maintain.
 <h2 align="center">⚡ Tech Stack</h2>
 
 <table align="center">
-  <tr>
-    <td align="center" valign="top" width="50%">
-      <b>💻 Programming &amp; Web</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=py,cpp,js,html,css&theme=dark&perline=5" alt="Python, C++, JavaScript, HTML, CSS" />
-    </td>
-    <td align="center" valign="top" width="50%">
-      <b>📊 Data Analysis &amp; Visualization</b><br/><br/>
-      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=150458" alt="Pandas" />
-      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=013243" alt="NumPy" />
-      <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=336791" alt="SQL" />
-      <br/>
-      <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" alt="Seaborn" />
-      <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge" alt="Tableau" />
-      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge" alt="Power BI" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" width="50%">
-      <b>🧠 Engineering Principles</b><br/><br/>
-      <img src="https://img.shields.io/badge/OOP-0A66C2?style=for-the-badge" alt="OOP" />
-      <img src="https://img.shields.io/badge/SOLID-8957e5?style=for-the-badge" alt="SOLID" />
-      <img src="https://img.shields.io/badge/Design_Patterns-E34F26?style=for-the-badge" alt="Design Patterns" />
-    </td>
-    <td align="center" valign="top" width="50%">
-      <b>🔧 Tools</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=git,github&theme=dark&perline=5" alt="Git and GitHub" />
-    </td>
-  </tr>
+<tr>
+<td align="center" valign="top" width="50%">
+<b>💻 Programming &amp; Web</b><br/><br/>
+<img src="https://skillicons.dev/icons?i=py,cpp,js,html,css&theme=dark&perline=5" alt="Python, C++, JavaScript, HTML, CSS" />
+</td>
+<td align="center" valign="top" width="50%">
+<b>📊 Data Analysis &amp; Visualization</b><br/><br/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=150458" alt="Pandas" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=013243" alt="NumPy" />
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=336791" alt="SQL" />
+<br/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" alt="Seaborn" />
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge" alt="Tableau" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge" alt="Power BI" />
+</td>
+</tr>
+<tr>
+<td align="center" valign="top" width="50%">
+<b>🧠 Engineering Principles</b><br/><br/>
+<img src="https://img.shields.io/badge/OOP-0A66C2?style=for-the-badge" alt="OOP" />
+<img src="https://img.shields.io/badge/SOLID-8957e5?style=for-the-badge" alt="SOLID" />
+<img src="https://img.shields.io/badge/Design_Patterns-E34F26?style=for-the-badge" alt="Design Patterns" />
+</td>
+<td align="center" valign="top" width="50%">
+<b>🔧 Tools</b><br/><br/>
+<img src="https://skillicons.dev/icons?i=git,github&theme=dark&perline=5" alt="Git and GitHub" />
+</td>
+</tr>
 </table>
 
 <br/>
@@ -141,9 +141,9 @@ and builds software that is clean, readable and easy to maintain.
 <br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmednasser-io/ahmednasser-io/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmednasser-io/ahmednasser-io/output/github-snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/ahmednasser-io/ahmednasser-io/output/github-snake-dark.svg" width="95%" />
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmednasser-io/ahmednasser-io/output/github-snake-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmednasser-io/ahmednasser-io/output/github-snake.svg" />
+<img alt="Contribution snake" src="https://raw.githubusercontent.com/ahmednasser-io/ahmednasser-io/output/github-snake-dark.svg" width="95%" />
 </picture>
 
 </div>
@@ -156,46 +156,31 @@ and builds software that is clean, readable and easy to maintain.
 <div align="center">
 
 <table align="center">
-  <tr>
-    <td align="center" width="700">
-      <br/>
-      <b>Have an idea, a project, or just want to talk code and data?</b><br/>
-      My inbox is always open. Pick whatever way suits you best.
-      <br/><br/>
-<!-- Social links -->
-      <a href="mailto:arzottkx@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-      <a href="https://linkedin.com/in/ahmed-nasser-99a52b377"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-      <a href="https://facebook.com/profile.php?id=100084691406061"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-
-<br/><br/>
-
-    <!-- Divider -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=30363d" width="80%" alt="" />
-
+<tr>
+<td align="center" width="700">
 <br/>
-
-      <!-- Contact form -->
+<b>Have an idea, a project, or just want to talk code and data?</b><br/>
+My inbox is always open. Pick whatever way suits you best.
+<br/><br/>
+<a href="mailto:arzottkx@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://linkedin.com/in/ahmed-nasser-99a52b377"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://facebook.com/profile.php?id=100084691406061"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+<br/><br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=30363d" width="80%" alt="" />
+<br/>
 <b>📬 Prefer a quick message?</b><br/>
-      <sub>Fill in a short form and it lands straight in my inbox.</sub>
-      <br/><br/>
-
-  <a href="https://ahmednasser-io.github.io/ahmednasser-io/contact.html"><img src="https://img.shields.io/badge/Open_the_Contact_Form-1f6feb?style=for-the-badge&logo=googleforms&logoColor=white" alt="Open contact form" /></a>
-      <a href="mailto:arzottkx@gmail.com?subject=Hello%20Ahmed&body=Hi%20Ahmed%2C%0A%0A"><img src="https://img.shields.io/badge/Or_Write_Directly-8957e5?style=for-the-badge&logo=maildotru&logoColor=white" alt="Quick email" /></a>
-
-      <br/><br/>
-  <sub>💼 Collaboration &nbsp;·&nbsp; 🚀 Projects &nbsp;·&nbsp; 🎯 Opportunities &nbsp;·&nbsp; 💬 Questions</sub>
-      <br/><br/>
-    </td>
-  </tr>
+<sub>Fill in a short form and it lands straight in my inbox.</sub>
+<br/><br/>
+<a href="https://ahmednasser-io.github.io/ahmednasser-io/contact.html"><img src="https://img.shields.io/badge/Open_the_Contact_Form-1f6feb?style=for-the-badge&logo=googleforms&logoColor=white" alt="Open contact form" /></a>
+<a href="mailto:arzottkx@gmail.com?subject=Hello%20Ahmed&body=Hi%20Ahmed%2C%0A%0A"><img src="https://img.shields.io/badge/Or_Write_Directly-8957e5?style=for-the-badge&logo=maildotru&logoColor=white" alt="Quick email" /></a>
+<br/><br/>
+<sub>💼 Collaboration &nbsp;·&nbsp; 🚀 Projects &nbsp;·&nbsp; 🎯 Opportunities &nbsp;·&nbsp; 💬 Questions</sub>
+<br/><br/>
+</td>
+</tr>
 </table>
 
 <br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=4000&pause=1500&color=8B949E&center=true&vCenter=true&width=620&lines=%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22" alt="Quote" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=130&color=0:8957e5,50:1f6feb,100:0d1117" width="100%" alt="Footer" />
-
-</div>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=4000&pause=1500&color=8B949E&center=true&vCenter=true&width=620&lines=%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22" alt="Quote" />
 
