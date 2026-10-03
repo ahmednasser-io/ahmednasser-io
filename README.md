@@ -1,252 +1,162 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Industry-Standard Tech Stack</title>
-    <!-- Font Awesome & Devicon icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-    <style>
-        * {
-            box-sizing: border-box;
-            margin: 0;
-            padding: 0;
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-        }
- body {
-            background-color: #0b0e14;
-            color: #ffffff;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            min-height: 100vh;
-            padding: 20px;
-        }
-.container {
-            width: 100%;
-            max-width: 1000px;
-            background-color: #0e1117;
-            border: 1px solid #1f242d;
-            border-radius: 12px;
-            padding: 28px;
-            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.6);
-        }
- .header {
-            text-align: center;
-            margin-bottom: 24px;
-            position: relative;
-            padding-bottom: 16px;
-            border-bottom: 1px solid #1f2937;
-        }
-.header h1 {
-            font-size: 24px;
-            font-weight: 700;
-            letter-spacing: 0.5px;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            gap: 10px;
-            color: #f3f4f6;
-        }
-.header h1 span.bolt {
-            color: #f59e0b;
-        }
- .grid {
-            display: grid;
-            grid-template-columns: 1fr 1fr;
-            gap: 16px;
-        }
-  @media (max-width: 768px) {
-            .grid {
-                grid-template-columns: 1fr;
-            }
-        }
-.card {
-            background-color: #12161f;
-            border: 1px solid #1f2430;
-            border-radius: 8px;
-            padding: 20px;
-            display: flex;
-            flex-direction: column;
-            gap: 16px;
-        }
-.card-title {
-            font-size: 15px;
-            font-weight: 600;
-            color: #e5e7eb;
-            display: flex;
-            align-items: center;
-            gap: 8px;
-        }
- .pills-group {
-            display: flex;
-            flex-direction: column;
-            gap: 10px;
-        }
- .pill-row {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 8px;
-        }
- .pill {
-            display: inline-flex;
-            align-items: center;
-            gap: 8px;
-            padding: 8px 14px;
-            border-radius: 6px;
-            font-size: 12px;
-            font-weight: 700;
-            letter-spacing: 0.5px;
-            text-transform: uppercase;
-            color: #ffffff;
-            transition: transform 0.2s ease, filter 0.2s ease;
-            cursor: default;
-        }
-  .pill:hover {
-            transform: translateY(-2px);
-            filter: brightness(1.1);
-        }
- /* Colors */
-        .pill-blue { background-color: #1d4ed8; }
-        .pill-python { background-color: #2563eb; }
-        .pill-pandas { background-color: #311b92; }
-        .pill-numpy { background-color: #0284c7; }
-        .pill-yellow { background-color: #d97706; }
-        .pill-orange { background-color: #ea580c; }
-        .pill-red { background-color: #dc2626; }
-        .pill-cyan { background-color: #0891b2; }
-        .pill-dark-blue { background-color: #1e3a8a; }
-        .pill-purple { background-color: #7c3aed; }
-        .pill-teal { background-color: #0d9488; }
-        .pill-green { background-color: #16a34a; }
- /* Icons Row */
-        .icons-row {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 10px;
-            margin-top: 4px;
-        }
-.icon-box {
-            width: 38px;
-            height: 38px;
-            border-radius: 8px;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            font-size: 20px;
-            color: #ffffff;
-            transition: transform 0.2s ease;
-        }
- .icon-box:hover {
-            transform: scale(1.08);
-        }
- .bg-cpp { background-color: #00599c; }
-        .bg-python { background-color: #3776ab; }
-        .bg-jupyter { background-color: #f37626; }
-        .bg-docker { background-color: #2496ed; }
-        .bg-git { background-color: #f05032; }
-        .bg-github { background-color: #24292e; border: 1px solid #30363d; }
-        .bg-linux { background-color: #2d3748; }
-        .bg-vscode { background-color: #007acc; }
-    </style>
-</head>
-<body>
- <div class="container">
-        <div class="header">
-            <h1><span class="bolt"><i class="fa-solid fa-bolt"></i></span> Industry-Standard Tech Stack</h1>
-        </div>
+<!-- ═════════════════════════ HEADER ═════════════════════════ -->
+<div align="center">
 
-  <div class="grid">
-            <!-- Box 1: Data Analytics & Business Intelligence -->
-            <div class="card">
-                <div class="card-title">
-                    <i class="fa-solid fa-chart-column" style="color: #60a5fa;"></i>
-                    Data Analytics & Business Intelligence
-                </div>
-                <div class="pills-group">
-                    <div class="pill-row">
-                        <div class="pill pill-blue"><i class="devicon-postgresql-plain"></i> SQL</div>
-                        <div class="pill pill-python"><i class="devicon-python-plain"></i> PYTHON</div>
-                        <div class="pill pill-pandas"><i class="devicon-pandas-plain"></i> PANDAS</div>
-                    </div>
-                    <div class="pill-row">
-                        <div class="pill pill-numpy"><i class="devicon-numpy-original"></i> NUMPY</div>
-                        <div class="pill pill-yellow"><i class="fa-solid fa-chart-pie"></i> POWER BI</div>
-                        <div class="pill pill-orange"><i class="fa-solid fa-table-cells"></i> TABLEAU</div>
-                    </div>
-                </div>
-            </div>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=header&height=260&color=0:0d1117,45:1f6feb,100:8957e5&text=Ahmed%20Nasser&fontColor=ffffff&fontSize=64&fontAlignY=38&desc=Software%20Engineering%20%C2%B7%20Data%20Engineering%20%C2%B7%20Data%20Analytics&descAlignY=60&descSize=18&animation=fadeIn" width="100%" alt="Ahmed Nasser — Software Engineering and Data" />
 
-            <!-- Box 2: Data Engineering & Cloud Data Stack -->
-  <div class="card">
-                <div class="card-title">
-                    <i class="fa-solid fa-gear" style="color: #a78bfa;"></i>
-                    Data Engineering & Cloud Data Stack
-                </div>
-                <div class="pills-group">
-                    <div class="pill-row">
-                        <div class="pill pill-blue"><i class="devicon-postgresql-plain"></i> POSTGRESQL</div>
-                        <div class="pill pill-orange"><i class="fa-solid fa-cubes"></i> DBT</div>
-                        <div class="pill pill-orange"><i class="fa-solid fa-fire"></i> APACHE SPARK</div>
-                    </div>
-                    <div class="pill-row">
-                        <div class="pill pill-cyan"><i class="fa-solid fa-wind"></i> APACHE AIRFLOW</div>
-                        <div class="pill pill-cyan"><i class="fa-solid fa-snowflake"></i> SNOWFLAKE</div>
-                        <div class="pill pill-dark-blue"><i class="devicon-amazonwebservices-original"></i> AWS</div>
-                    </div>
-                </div>
-            </div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=750&height=45&lines=Building+scalable+data+pipelines+%26+ETLs+%E2%9A%99%EF%B8%8F;Turning+complex+data+into+business+insights+%F0%9F%93%8A;Writing+clean%2C+optimized+%26+maintainable+code+%F0%9F%92%BB;Faculty+of+Computers+%26+AI%2C+Cairo+University+%F0%9F%8E%93" alt="Typing animation" />
 
-            <!-- Box 3: Software Engineering Fundamentals -->
-   <div class="card">
-                <div class="card-title">
-                    <i class="fa-solid fa-brain" style="color: #f472b6;"></i>
-                    Software Engineering Fundamentals
-                </div>
-                <div class="pills-group">
-                    <div class="pill-row">
-                        <div class="pill pill-blue"><i class="fa-solid fa-sitemap"></i> DATA STRUCTURES</div>
-                        <div class="pill pill-orange"><i class="fa-solid fa-code"></i> ALGORITHMS</div>
-                    </div>
-                    <div class="pill-row">
-                        <div class="pill pill-blue"><i class="fa-solid fa-cube"></i> OOP</div>
-                        <div class="pill pill-purple"><i class="fa-solid fa-shapes"></i> SOLID PRINCIPLES</div>
-                        <div class="pill pill-orange"><i class="fa-solid fa-diagram-project"></i> SYSTEM DESIGN</div>
-                    </div>
-                </div>
-            </div>
+</div>
 
-            <!-- Box 4: Data Science & Environments (تعديل الـ AI إلى Data Science) -->
-   <div class="card">
-            <div class="card-title">
-                    <i class="fa-solid fa-microscope" style="color: #38bdf8;"></i>
-                    Data Science & Environments
-                </div>
-                <div class="pills-group">
-                    <div class="pill-row">
-                        <div class="pill pill-orange"><i class="devicon-scikitlearn-plain"></i> SCIKIT LEARN</div>
-                        <div class="pill pill-blue"><i class="fa-solid fa-chart-line"></i> MATPLOTLIB</div>
-                        <div class="pill pill-teal"><i class="fa-solid fa-wave-square"></i> SEABORN</div>
-                    </div>
-                    <div class="pill-row">
-                        <div class="pill pill-purple"><i class="fa-solid fa-calculator"></i> SCIPY</div>
-                        <div class="pill pill-green"><i class="fa-solid fa-square-poll-vertical"></i> STATSMODELS</div>
-                    </div>
-                </div>
-                <div class="icons-row">
-                    <div class="icon-box bg-cpp" title="C++"><i class="devicon-cplusplus-plain"></i></div>
-                    <div class="icon-box bg-python" title="Python"><i class="devicon-python-plain"></i></div>
-                    <div class="icon-box bg-jupyter" title="Jupyter Notebook"><i class="devicon-jupyter-plain"></i></div>
-                    <div class="icon-box bg-docker" title="Docker"><i class="devicon-docker-plain"></i></div>
-                    <div class="icon-box bg-git" title="Git"><i class="devicon-git-plain"></i></div>
-                    <div class="icon-box bg-github" title="GitHub"><i class="devicon-github-original"></i></div>
-                    <div class="icon-box bg-linux" title="Linux"><i class="devicon-linux-plain"></i></div>
-                    <div class="icon-box bg-vscode" title="VS Code"><i class="devicon-vscode-plain"></i></div>
-                </div>
-            </div>
-        </div>
-    </div>
+<br/>
 
-</body>
-</html>
+<!-- ═════════════════════════ ABOUT ═════════════════════════ -->
+<h2 align="center">👋 About Me</h2>
+
+<p align="center">
+I'm an undergraduate <b>Software Engineering</b> student at the <b>Faculty of Computers and Artificial Intelligence, Cairo University</b>.<br/>
+I bridge the gap between strong <b>Software Engineering Fundamentals</b> (Data Structures, OOP, SOLID, Clean Code) and modern <b>Data Architecture</b> (ETL Pipelines, Data Warehousing, Advanced Analytics & ML).
+</p>
+
+<table align="center">
+<tr>
+<td align="center" valign="top" width="33%">
+<h3>🧱 Core Software Engineering</h3>
+Strong background in C++, Data Structures, Algorithms, OOP, and SOLID principles. Focused on writing clean, memory-efficient, and maintainable code.
+</td>
+<td align="center" valign="top" width="33%">
+<h3>⚙️ Data Engineering & Pipeline</h3>
+Designing scalable ETL/ELT pipelines using SQL, dbt, Apache Spark, Airflow, and orchestration tools to manage data end-to-end.
+</td>
+<td align="center" valign="top" width="33%">
+<h3>📊 Analytics & Business Intelligence</h3>
+Extracting actionable insights using Python (Pandas/NumPy), SQL, and creating interactive, decision-making dashboards in Power BI & Tableau.
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+| | |
+|:--|:--|
+| 🔭 **Working on** | Scalable Data Pipelines, Relational Database Architectures & C++ Performance Tools |
+| 🌱 **Learning** | Advanced System Design, Distributed Systems & Stream Processing |
+| 👯 **Collaborating on** | Open-Source Data Tools & Software Engineering University Projects |
+| 📚 **Currently Reading** | *Designing Data-Intensive Applications* & *Atomic Habits* |
+| 💬 **Ask me about** | SQL, Python, C++, Data Structures, OOP, dbt, Spark, or *Interstellar* |
+| ⚡ **Fun fact** | I love memory management in C++ as much as writing complex SQL queries! |
+
+</div>
+
+<br/>
+
+<!-- ═════════════════════════ TECH STACK ═════════════════════════ -->
+<h2 align="center">⚡ Industry-Standard Tech Stack</h2>
+
+<table align="center">
+<tr>
+<td align="center" valign="top" width="50%">
+<b>📊 Data Analytics & Business Intelligence</b><br/><br/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+<br/><br/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+</td>
+<td align="center" valign="top" width="50%">
+<b>⚙️ Data Engineering & Cloud Data Stack</b><br/><br/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/dbt-FF6B4A?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt" />
+<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Apache Spark" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Airflow" />
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+</td>
+</tr>
+<tr>
+<td align="center" valign="top" width="50%">
+<b>🧠 Software Engineering Fundamentals</b><br/><br/>
+<img src="https://img.shields.io/badge/Data_Structures-00599C?style=for-the-badge" alt="Data Structures" />
+<img src="https://img.shields.io/badge/Algorithms-FF6F00?style=for-the-badge" alt="Algorithms" />
+<br/><br/>
+<img src="https://img.shields.io/badge/OOP-0A66C2?style=for-the-badge" alt="OOP" />
+<img src="https://img.shields.io/badge/SOLID_Principles-8957e5?style=for-the-badge" alt="SOLID" />
+<img src="https://img.shields.io/badge/System_Design-E34F26?style=for-the-badge" alt="System Design" />
+</td>
+<td align="center" valign="top" width="50%">
+<b>🤖 Machine Learning & Environments</b><br/><br/>
+<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=cpp,py,docker,git,github,linux,vscode&theme=dark&perline=7" alt="Tools" />
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ═════════════════════════ GITHUB STATS ═════════════════════════ -->
+<h2 align="center">📈 GitHub Stats</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmednasser-io&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmednasser-io&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak" width="48%" />
+</div>
+
+<br/>
+
+<!-- ═════════════════════════ FEATURED PROJECTS ═════════════════════════ -->
+<h2 align="center">🚀 Featured Projects</h2>
+
+<div align="center">
+
+| | Project | Description | Tech Stack |
+|:-:|:--|:--|:--|
+| ⚙️ | **Automated Data Pipeline** | End-to-end data pipeline transforming raw data into structured tables for analytics. | `Python` `dbt` `PostgreSQL` `Airflow` |
+| 📊 | **Sales Analytics Dashboard** | Comprehensive BI dashboard delivering interactive insights on market trends and performance. | `Power BI` `SQL` `Pandas` |
+| 🖼️ | **Baby Photoshop** | C++ image processing application built with OOP principles and memory management techniques. | `C++` `OOP` `stb_image` |
+| 🌌 | **Interstellar Web App** | Responsive front-end project deployed on GitHub Pages showcasing web design fundamentals. | `HTML` `CSS` `JavaScript` |
+
+</div>
+
+<br/>
+
+<!-- ═════════════════════════ CONTACT ═════════════════════════ -->
+<h2 align="center">🤝 Let's Connect</h2>
+
+<div align="center">
+
+<table align="center">
+<tr>
+<td align="center" width="700">
+<br/>
+<b>Have an idea, a project, or want to talk software engineering, data architecture, or space?</b><br/>
+Send me an email directly at <a href="mailto:arzottkx@gmail.com"><b>arzottkx@gmail.com</b></a> or reach out through any channel below:
+<br/><br/>
+<a href="mailto:arzottkx@gmail.com"><img src="https://img.shields.io/badge/Email_Me-arzottkx%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://linkedin.com/in/ahmed-nasser-99a52b377"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://facebook.com/profile.php?id=100084691406061"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+<br/><br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=30363d" width="80%" alt="" />
+<br/>
+<b>📬 Prefer a quick message?</b><br/>
+<sub>Send an email directly or fill in the contact form.</sub>
+<br/><br/>
+<a href="mailto:arzottkx@gmail.com?subject=Hello%20Ahmed&body=Hi%20Ahmed%2C%0A%0A"><img src="https://img.shields.io/badge/Send_Direct_Email-8957e5?style=for-the-badge&logo=maildotru&logoColor=white" alt="Send direct email" /></a>
+<a href="https://ahmednasser-io.github.io/ahmednasser-io/contact.html"><img src="https://img.shields.io/badge/Open_Contact_Form-1f6feb?style=for-the-badge&logo=googleforms&logoColor=white" alt="Open contact form" /></a>
+<br/><br/>
+<sub>💼 Collaboration &nbsp;·&nbsp; 🚀 Projects &nbsp;·&nbsp; 🎯 Opportunities &nbsp;·&nbsp; 💬 Questions</sub>
+<br/><br/>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=4000&pause=1500&color=8B949E&center=true&vCenter=true&width=620&lines=%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22+-+John+Johnson" alt="Quote" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=130&color=0:8957e5,50:1f6feb,100:0d1117" width="100%" alt="Footer" />
+
+</div>
